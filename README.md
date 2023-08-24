@@ -9,7 +9,7 @@ Lade dir die Datei "ZZ-Structorizer.zip" herunter
 
 Entpacke die ZIP Datei
 
-Nun kannst du in folgendem Unterordner den Structorizer.jar starten
+Nun kannst du in folgendem Unterordner den Structorizer.jar starten \Structorizer.app\Contents\Java
 
 
 
