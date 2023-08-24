@@ -3,7 +3,7 @@
 
 Der Structorizer ist dafür gemacht ein Programm zu Visualisieren und zu struktuiren. 
 ## Installation 
-Zuerst Instaliere dir Open JDK 17 (https://adoptium.net/de/) 
+Zuerst Instaliere dir Open JDK 17 (https://adoptium.net/de/) (Admin Benötigt)
 
 Lade dir die Datei "ZZ-Structorizer.zip" herunter
 
